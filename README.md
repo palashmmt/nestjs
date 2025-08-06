@@ -48,6 +48,10 @@ $ npm run start:prod
 ```bash 
 $ nest generate module messages 
 
+## with controller dir
+$ nest generate controller messages/messages
+
+## without controller dir
 $ nest generate controller messages/messages --flat
 ```
 
