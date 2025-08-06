@@ -44,6 +44,13 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Generate Module
+```bash 
+$ nest generate module messages 
+
+$ nest generate controller messages/messages --flat
+```
+
 ## Run tests
 
 ```bash
